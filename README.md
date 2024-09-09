@@ -22,6 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=filipegribeiro&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=filipegribeiro&icon=0&color=3)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=filipegribeiro&label=Profile%20Views&color=3&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
