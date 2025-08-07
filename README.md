@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work for Oito developing a wine management platform for Tree Flowers Solutions.<br><br>I'm working on a nutrition website and portfolio as a freelancer;<br>I worked on a QRCode business model as a full-stack web developer at Engage Consulting;<br>I’m looking to collaborate on any projects to improve my skills as a programmer;<br>I’m looking for help with networking/contacts for future work;<br>I'm currently learning MERN stack;<br>Ask me how I mix music and code in my daily life!<br>In addition to being a programmer, I have a degree in Music and have worked as a teacher and music therapist!
+I currently work for Oito developing a wine management platform for Tree Flowers Solutions.<br>I'm working on a nutrition website and portfolio as a freelancer;<br><br>I worked on a QRCode business model as a full-stack web developer at Engage Consulting;<br>I’m looking to collaborate on any projects to improve my skills as a programmer;<br>I’m looking for help with networking/contacts for future work;<br>I'm currently learning MERN stack;<br>Ask me how I mix music and code in my daily life!<br>In addition to being a programmer, I have a degree in Music and have worked as a teacher and music therapist!
 
 
 ## 🌐 Socials:
